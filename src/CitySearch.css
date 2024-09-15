@@ -1,0 +1,50 @@
+div {
+    background:linear-gradient(to right, #030f4b, #0505b1);
+    width: 677px;
+    height: 455px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 12px;
+    position: relative;
+}
+
+input {
+    margin-left: 212px;
+    width: 250px;
+    height: 30px;
+    text-align: center;
+    font-size: 1rem;
+    border-radius: 50px;
+    outline: none;
+    background-color: #d5d7de;
+}
+
+ul {
+    border: 1px solid #ddd;
+    text-align: center;
+    margin: auto;
+    margin-top: 2px;
+    background-color: #fff;
+    border-radius: 8px;
+    border: 1px solid #000;
+    width: 300px;
+    background-color: #dce8f6;
+}
+
+li {
+    margin-left: -35px;
+    padding: 8px 10px;
+    list-style: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+li:hover {
+    margin-left: -4px;
+    background-color: #2d9aa6;
+    color: #fff;
+    border-radius: 8px;
+    width: 250px;
+    cursor: pointer;
+}
+
